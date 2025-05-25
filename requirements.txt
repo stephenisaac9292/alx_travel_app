@@ -1,0 +1,9 @@
+django>=5.0,<5.1
+djangorestframework
+pyyaml
+requests
+django-cors-headers
+django-environ
+mysqlclient
+drf-yasg
+celery
